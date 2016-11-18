@@ -1,0 +1,64 @@
+/* Inserte su codigo aqui */
+*{
+	
+}
+
+.header{
+	background: #ffd419;
+	height: 69px;
+}
+nav.navbar {
+    background-color: #ffd419;
+    color: white;
+    border:1px solid #ffd419;
+}
+nav button{
+
+}
+nav.navbar a {
+    color:white;
+    text-align: -webkit-right;
+}
+.portafolio{
+	margin-top: -20px;
+	background: #ffd419;
+	color: white;
+	height: 600px;
+	vertical-align: middle;
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+.white{
+	background:#D8D8D8;
+	border:1px solid red;
+	width: 394px;
+    height: 600px;
+	margin:0 auto;
+
+}
+.part-gray{
+	background-color: #D8D8D8;
+	height: 1500px;
+}
+.dentro
+{
+	width: 400px;
+	height: 500px;
+	background-color:white;
+	margin:0 auto;
+	margin-top: 30px;
+	padding-top: 27px
+
+}
+.texto{
+	background: #A4A4A4;
+	width: 200px;
+	height: 200px;
+	margin:0 auto;
+}
+.a {
+	margin-right: 3px;
+
+}
