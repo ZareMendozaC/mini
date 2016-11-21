@@ -1,8 +1,4 @@
 /* Inserte su codigo aqui */
-*{
-	
-}
-
 .header{
 	background: #ffd419;
 	height: 69px;
@@ -12,9 +8,7 @@ nav.navbar {
     color: white;
     border:1px solid #ffd419;
 }
-nav button{
 
-}
 nav.navbar a {
     color:white;
     text-align: -webkit-right;
@@ -32,25 +26,22 @@ nav.navbar a {
 }
 .white{
 	background:#D8D8D8;
-	border:1px solid red;
 	width: 394px;
     height: 600px;
-	margin:0 auto;
 
 }
 .part-gray{
 	background-color: #D8D8D8;
 	height: 1500px;
+	margin:0 auto;
 }
 .dentro
 {
-	width: 400px;
+	width: 500px;
 	height: 500px;
 	background-color:white;
-	margin:0 auto;
 	margin-top: 30px;
-	padding-top: 27px
-
+	padding-top: 27px;
 }
 .texto{
 	background: #A4A4A4;
@@ -58,7 +49,9 @@ nav.navbar a {
 	height: 200px;
 	margin:0 auto;
 }
-.a {
-	margin-right: 3px;
-
+p{
+	padding: 20px;
+}
+.titulo{
+	padding-top: 80px;
 }
