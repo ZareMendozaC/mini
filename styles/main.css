@@ -8,7 +8,6 @@ nav.navbar {
     color: white;
     border:1px solid #ffd419;
 }
-
 nav.navbar a {
     color:white;
     text-align: -webkit-right;
@@ -26,29 +25,20 @@ nav.navbar a {
 }
 .white{
 	background:#D8D8D8;
-	width: 394px;
-    height: 600px;
-
 }
 .part-gray{
 	background-color: #D8D8D8;
-	height: 1300px;
 	margin:0 auto;
 }
 .dentro
 {
-	width: 500px;
-	height: 600px;
 	background-color:white;
-	margin-top: 30px;
-	padding-top: 27px;
+	margin-top: 20px;
+	padding-top: 20px;
 }
 .texto{
 	background: #A4A4A4;
-	width: 300px;
-	height: 320px;
 	margin:0 auto;
-
 }
 p{
 	padding: 20px;
@@ -56,7 +46,6 @@ p{
 .titulo{
 	padding-top: 80px;
 }
-
 .pie{
 	background: black;
 	color:white;
