@@ -32,26 +32,34 @@ nav.navbar a {
 }
 .part-gray{
 	background-color: #D8D8D8;
-	height: 1500px;
+	height: 1300px;
 	margin:0 auto;
 }
 .dentro
 {
 	width: 500px;
-	height: 500px;
+	height: 600px;
 	background-color:white;
 	margin-top: 30px;
 	padding-top: 27px;
 }
 .texto{
 	background: #A4A4A4;
-	width: 200px;
-	height: 200px;
+	width: 300px;
+	height: 320px;
 	margin:0 auto;
+
 }
 p{
 	padding: 20px;
 }
 .titulo{
 	padding-top: 80px;
+}
+
+.pie{
+	background: black;
+	color:white;
+	height: 100px;
+	padding-top: 10px;
 }
